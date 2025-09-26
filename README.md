@@ -1,4 +1,4 @@
-# E-Comerence-Website
+# E-Commerce-Website
 
 A simple e-commerce website built with HTML, CSS, and JavaScript.
 This project demonstrates the structure of a modern online store, including product display, shopping cart functionality, wishlist, billing, user account management, and more.
